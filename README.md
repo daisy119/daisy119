@@ -10,7 +10,7 @@
   <hr>
 </div>
 
-### Proficiencies 💻
+### Tech Stack 💻
 <br>
 <div>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
@@ -39,7 +39,7 @@
 <br>
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>📊 Streak stats</h2></summary>
 
   <h3> Streak Stats🔥</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daisy119&theme=tokyonight" alt="GitHub Streak" /></a>
