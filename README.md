@@ -39,9 +39,9 @@
 <br>
 
 <details> 
-  <summary><h2>📊 Streak stats</h2></summary>
+  <summary><h2>Streak stats 📊 </h2></summary>
 
-  <h3> Streak Stats🔥</h3>
+  <h3> Streak 🔥</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daisy119&theme=tokyonight" alt="GitHub Streak" /></a>
 </details>
       
