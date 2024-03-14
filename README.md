@@ -36,4 +36,12 @@
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
 
 </div>
+<br>
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3> Streak Stats🔥</h3>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daisy119&theme=tokyonight" alt="GitHub Streak" /></a>
+</details>
       
