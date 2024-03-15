@@ -5,7 +5,6 @@
 <div align="center">
 
 <img alt="top langs"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisy119&layout=compact&theme=tokyonight" />
-<img alt="Jia's GitHub stats" align="center"  src="https://github-readme-stats.vercel.app/api?username=daisy119&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
 
 
   <hr>
@@ -40,10 +39,13 @@
 <br>
 
 <details> 
-  <summary><h2>Streak stats 📊 </h2></summary>
+  <summary><h2>Stats and Activities 📊 </h2></summary>
 
   <h3> Streak 🔥</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daisy119&theme=tokyonight" alt="GitHub Streak" /></a>
+
+  <h3> GitHub Stats 💻</h3>
+<img alt="Jia's GitHub stats" align="center"  src="https://github-readme-stats.vercel.app/api?username=daisy119&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
 
 
   
